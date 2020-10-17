@@ -1,8 +1,7 @@
 ### Olá, Pessoal! 👋
 
 <!--
-**VivianeSouza923/VivianeSouza923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**VivianeSouza923/VivianeSouza923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 - 🔭 Atualmente trabalhando como pesquisadora bolsista no Lapisco, Laboratório de Processamento de Imagens, Sinais e Computação Aplicada, onde as linhas de pesquisa são principalmente o Processamento Digital de Imagens, Sinais e aplicações na área de Computação envolvendo Inteligência Artificial e Reconhecimento de Padrões, inclusive em Sistemas Embarcados, Robótica, Automação e dispositivos móveis e Internet das Coisas (IoT).
 - 🌱 No momento aprendendo sobre visão computacional
