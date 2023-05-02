@@ -1,6 +1,6 @@
 ### Olá, Pessoal! 👋 (perfil um pouco bagunçado, mas eu vou tirar um tempinho pra deixar meu profile supimpaaa!)
 
-Atualmente trabalhando como AI Developer (internship) no Huawei ICT Academy, Laboratório da Huawei em parceria com o IFCE e Software Development Intern no LAPADA, Laboratório de Pesquisa Aplicada Ao Desenvolvimento em Automação, tamb.
+Atualmente trabalhando como AI Developer (internship) no Huawei ICT Academy, Laboratório da Huawei em parceria com o IFCE e Software Development Intern no LAPADA, Laboratório de Pesquisa Aplicada Ao Desenvolvimento em Automação, também no IFCE.
 
 No momento estou aprendendo sobre React, flutter e IA. Aprimorando os conhecimentos que já possuo.
 
