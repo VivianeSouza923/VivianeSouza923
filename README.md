@@ -10,7 +10,7 @@
 
 ### Frameworks:
 
-[![tensorflow-original-wordmark.svg](https://path/to/logo.png)](https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg)
+[![tensorflow-original-wordmark.svg](https://github.com/VivianeSouza923/VivianeSouza923/blob/main/tensorflow-original-wordmark.svg)](https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg)
 
 
 ### Version Control:
