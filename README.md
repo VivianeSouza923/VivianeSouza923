@@ -1,9 +1,29 @@
-### Olá, Pessoal! 👋 (perfil um pouco bagunçado, mas eu vou tirar um tempinho pra deixar meu profile supimpaaa!)
+## Hi, I'm Viviane Souza (Vivi)! 🧚‍♀️:
 
-Atualmente trabalhando como AI Developer (internship) no Huawei ICT Academy, Laboratório da Huawei em parceria com o IFCE e Software Development Intern no LAPADA, Laboratório de Pesquisa Aplicada Ao Desenvolvimento em Automação, também no IFCE.
+[![LinkedIn: viviane-souza](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viviane-souza-8672391b0/)](https://www.linkedin.com/in/viviane-souza-8672391b0/)
+[![GitHub VivianeSouza923](https://img.shields.io/github/followers/VivianeSouza923?style=social)](https://github.com/VivianeSouza923)
 
-No momento estou aprendendo sobre React, flutter e IA. Aprimorando os conhecimentos que já possuo.
+[![Kaggle vivi_souza.py](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white&link=https://www.kaggle.com/morbidvivi)](https://www.kaggle.com/morbidvivi)
 
-Como me encontrar: E-mail: rt.viviane.souza@gmail.com e Linkedin: https://www.linkedin.com/in/viviane-souza-8672391b0/
 
-Sou técnica em Telecomunicações pelo IFCE (2014) e atualmente graduanda em Engenharia de Telecomunicações na mesma instituição. Tenho conhecimento em Java, C, C++, Python, JS, TS, Node.js, Arduíno, além de IA em geral, ML, DL, OpenCV. Tenho um "Q" também de redes, circuitos eletrônicos e integrados.  
+## AI and Flutter Developer, 
+
+### Frameworks:
+
+[![tensorflow-original-wordmark.svg](https://path/to/logo.png)](https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg)
+
+
+### Version Control:
+
+
+
+### Tools:
+
+
+
+### Databases:
+
+
+
+### Cloud:
+
