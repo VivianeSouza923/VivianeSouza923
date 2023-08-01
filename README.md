@@ -5,7 +5,7 @@
 [![GitHub VivianeSouza923](https://img.shields.io/github/followers/VivianeSouza923?style=social)](https://github.com/VivianeSouza923)
 
 [![Kaggle vivi_souza.py](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white&link=https://www.kaggle.com/morbidvivi)](https://www.kaggle.com/morbidvivi)
-<p align="center">
+<p align="left">
   <a href="mailto:rt.viviane.souza@gmail.com">
     <img src="https://img.shields.io/badge/E-mail-%20-blue?style=for-the-badge&logo=gmail" alt="E-mail">
   </a>
