@@ -5,7 +5,7 @@
 [![GitHub VivianeSouza923](https://img.shields.io/github/followers/VivianeSouza923?style=social)](https://github.com/VivianeSouza923)
 
 [![Kaggle vivi_souza.py](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white&link=https://www.kaggle.com/morbidvivi)](https://www.kaggle.com/morbidvivi)
-[![E-mail](mailto:rt.viviane.souza@gmail.com)](mailto:rt.viviane.souza@gmail.com)
+[![E-mail](https://img.shields.io/badge/E-mail-%20-blue?logo=gmail)](mailto:rt.viviane.souza@gmail.com)
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue)](https://www.hackerrank.com/viviane_souza05)
 [![Exercism](https://img.shields.io/badge/Exercism-Profile-blue)](https://exercism.org/profiles/VivianeSouza923)
