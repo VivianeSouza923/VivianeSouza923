@@ -9,7 +9,7 @@
 
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue)](https://www.hackerrank.com/viviane_souza05)
-[![Exercism](https://img.shields.io/badge/Exercism-Profile-blue)](https://exercism.org/profiles/VivianeSouza923)
+
 
 
 - 🌱 Studying and improving my skills in AI development, Machine Learning and Flutter;
