@@ -1,18 +1,23 @@
-## Hi, I'm Viviane Souza (Vivi)! 🧚‍♀️:
+## Hi, I'm Viviane Souza (Vivi)! 🧚‍♀️: Welcome to my GitHub :)
 
+I'm a Data Analyst and Front-end Developer with a passion for technology and continuous learning. I thrive on challenges, which is why I'm constantly exploring topics in data analysis, artificial intelligence, and full stack development to expand my skills and knowledge.
 
-[![LinkedIn: viviane-souza](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viviane-souza-8672391b0/)](https://www.linkedin.com/in/viviane-souza-8672391b0/)
-[![GitHub VivianeSouza923](https://img.shields.io/github/followers/VivianeSouza923?style=social)](https://github.com/VivianeSouza923)
+## My Stacks
 
-[![Kaggle vivi_souza.py](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white&link=https://www.kaggle.com/morbidvivi)](https://www.kaggle.com/morbidvivi)
-[![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:rt.viviane.souza@gmail.com)
+ - Data Analysis and Machine Learning:
+   - Languages: Python (Pandas, NumPy, Scikit-Learn)
+   - Tools: Jupyter Notebook, TensorFlow, Keras
+   - Data Visualization: Matplotlib, Seaborn
 
+ - Front-end Development:
+   - Languages: HTML, CSS, JavaScript, Dart
+   - Frameworks: Flutter, React.js
+   - 
+ - Tools:
+   - git/github
+   - GNU/linux
+   
 
-
-
-- 🌱 Studying and improving my skills in AI development, Machine Learning and Flutter;
-- 🚀 Student at Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), Telecommunications Engineering;
-- 🧑🏻‍💻 Software Development Intern (Flutter) at Laboratório de Pesquisa Aplicada Ao Desenvolvimento em Automação - LAPADA (Development activities for Instituto Iracema de Pesquisa e Inovação).
 
 ## Analytics & Highlights
 
@@ -26,4 +31,13 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=VivianeSouza923&them
  <a href="https://metrics.lecoq.io/insights/VivianeSouza923" target="_blank" rel="noreferrer"><img height="27.5em" src="https://user-images.githubusercontent.com/86871991/178090011-2be9a8c0-ad68-4e7d-8568-6256d8178a28.png"></img></a>
  
 </details>
+
+Follow me 🌟: 
+
+[![LinkedIn: viviane-souza](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=pink&link=https://www.linkedin.com/in/viviane-souza-8672391b0/)](https://www.linkedin.com/in/viviane-souza-8672391b0/)
+[![GitHub VivianeSouza923](https://img.shields.io/github/followers/VivianeSouza923?style=social)](https://github.com/VivianeSouza923)
+
+[![Kaggle vivi_souza.py](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=pink&link=https://www.kaggle.com/morbidvivi)](https://www.kaggle.com/morbidvivi)
+[![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=pink)](mailto:rt.viviane.souza@gmail.com)
+
 
