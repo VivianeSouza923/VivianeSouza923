@@ -12,7 +12,7 @@ I'm a Data Analyst and Front-end Developer with a passion for technology and con
  - Front-end Development:
    - Languages: HTML, CSS, JavaScript, Dart
    - Frameworks: Flutter, React.js
-   - 
+  
  - Tools:
    - git/github
    - GNU/linux
