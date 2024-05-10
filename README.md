@@ -34,10 +34,9 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=VivianeSouza923&them
 
 Follow me 🌟: 
 
-[![LinkedIn: viviane-souza](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=pink&link=https://www.linkedin.com/in/viviane-souza-8672391b0/)](https://www.linkedin.com/in/viviane-souza-8672391b0/)
-[![GitHub VivianeSouza923](https://img.shields.io/github/followers/VivianeSouza923?style=social)](https://github.com/VivianeSouza923)
-
-[![Kaggle vivi_souza.py](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=pink&link=https://www.kaggle.com/morbidvivi)](https://www.kaggle.com/morbidvivi)
-[![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=pink)](mailto:rt.viviane.souza@gmail.com)
+[![LinkedIn: viviane-souza](https://img.shields.io/badge/-LinkedIn-pink?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viviane-souza-8672391b0/)](https://www.linkedin.com/in/viviane-souza-8672391b0/)
+[![GitHub VivianeSouza923](https://img.shields.io/github/followers/VivianeSouza923?style=social&labelColor=pink)](https://github.com/VivianeSouza923)
+[![Kaggle vivi_souza.py](https://img.shields.io/badge/-Kaggle-pink?style=flat&logo=kaggle&logoColor=20BEFF&link=https://www.kaggle.com/morbidvivi)](https://www.kaggle.com/morbidvivi)
+[![Gmail Badge](https://img.shields.io/badge/-Email-pink?style=flat&logo=Gmail&logoColor=white)](mailto:rt.viviane.souza@gmail.com)
 
 
